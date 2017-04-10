@@ -1,6 +1,9 @@
 *{
 box-sizing:
 }
+a:link{
+text-decoration: none;
+}
 
 body{
   color: rgb(255, 255, 255);
@@ -21,17 +24,17 @@ body{
  h2{
    color: rgb(255,255, 255);
    font-family: 'Amatic SC', cursive;
-
-
-
  }
  h3{
    color: rgb(255,255,255);
    font-family: 'Amatic SC', cursive;
-}
+ }
   p{
    font-family: 'Amatic SC', cursive;
    }
+
+
+
 
 #proyects{
 background: rgb(130, 170, 75);
@@ -61,4 +64,8 @@ border: 1px solid white;
 
 #me{
 border:1px solid white;
+}
+
+.container-table {
+margin-left: 35%;
 }
